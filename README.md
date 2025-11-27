@@ -14,7 +14,7 @@
 
 ### 2. [`/corollary`](./corollary)
 * **Status:** Applied Physics & Structural Analysis
-* **Content:** Applications, structural instantiations, and datasets. This includes the analysis of the "Geometric Engine" and correlations with the 2025 Giza SAR tomography data.
+* **Content:** Applications, structural instantiations, and datasets. This includes an analysis of the 2025 Giza SAR tomography data.
 
 ---
 
